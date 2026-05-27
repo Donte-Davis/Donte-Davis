@@ -1,6 +1,6 @@
 # Donte Davis
 
-Security Operations | Vulnerability Management | GRC
+Security Operations | Vulnerability Management | GRC |
 Security+ | Splunk | Nessus | NIST CSF | IAM
 
 ---
