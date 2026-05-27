@@ -1,29 +1,31 @@
 # Donte Davis
 
-Cybersecurity Analyst | SOC | GRC  
-Security+ | Splunk | Nessus | NIST | CMMC
+Security Operations | Vulnerability Management | GRC
+Security+ | Splunk | Nessus | NIST CSF | IAM
 
 ---
 
 ## About Me
 
-I am a cybersecurity analyst with hands-on experience across security operations (SOC), vulnerability management, and governance, risk, and compliance (GRC). I specialize in analyzing security events, identifying risks, and aligning technical findings with frameworks such as NIST and CMMC.
+Operations and technical support professional focused on cybersecurity operations, vulnerability management, and governance, risk, and compliance (GRC) through hands-on labs, security projects, and continuous learning.
 
-Through hands-on projects, I have built SIEM-based detection workflows, performed incident investigations, conducted vulnerability assessments, and developed compliance-aligned security policies.
+Experience includes building Splunk-based SOC lab environments, performing log analysis, investigating authentication anomalies, conducting vulnerability assessments with Nessus, and implementing IAM controls using Azure RBAC and MFA.
 
-My background in UX design strengthens my ability to communicate security insights clearly and collaborate effectively across teams.
+Hands-on projects include SIEM monitoring, incident analysis, risk assessments, compliance documentation, and security control mapping aligned with frameworks such as NIST CSF and ISO 27001.
 
-I am actively seeking opportunities in SOC, GRC, or hybrid security roles where I can contribute to threat detection, risk reduction, and security program maturity.
+Previous experience in UX consulting and business operations strengthened my ability to communicate technical findings clearly, collaborate across teams, and translate complex issues into practical solutions.
+
+Currently pursuing opportunities in cybersecurity operations, IT operations, vulnerability management, IAM, and GRC-focused roles.
 
 ---
 
 ## Skills
 
-**Security Operations:** Splunk, Log Analysis, Incident Detection, Threat Analysis  
-**Vulnerability Management:** Nessus, Risk Prioritization, CVSS Scoring  
-**GRC & Compliance:** NIST, CMMC, Risk Assessments, Control Mapping, Gap Analysis  
-**IAM:** RBAC, MFA, Least Privilege, Access Reviews  
-**Tools:** Splunk, Tenable Nessus, Nmap, Qualys, Python, Jira, Confluence, Excel
+**Security Operations:** Splunk, Log Analysis, Security Monitoring, Incident Analysis  
+**Vulnerability Management:** Nessus, Qualys, Risk Assessments, Vulnerability Priortization
+**GRC & Compliance:** NIST CSF, ISO 27001, Control Mapping, Gap Assessments, Security Policies  
+**IAM:** RBAC, MFA, Least Privilege, Access Control  
+**Tools:** Splunk, Tenable Nessus, Nmap, Jira, Confluence
 
 ---
 
