@@ -22,8 +22,8 @@ Currently pursuing opportunities in cybersecurity operations, IT operations, vul
 ## Skills
 
 **Security Operations:** Splunk, Log Analysis, Security Monitoring, Incident Analysis  
-**Vulnerability Management:** Nessus, Qualys, Risk Assessments, Vulnerability Priortization
-**GRC & Compliance:** NIST CSF, ISO 27001, Control Mapping, Gap Assessments, Security Policies  
+**Vulnerability Management:** Nessus, Qualys, Risk Assessments, Vulnerability Priortization  
+ **GRC & Compliance:** NIST CSF, ISO 27001, Control Mapping, Gap Assessments, Security Policies  
 **IAM:** RBAC, MFA, Least Privilege, Access Control  
 **Tools:** Splunk, Tenable Nessus, Nmap, Jira, Confluence
 
